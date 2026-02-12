@@ -33,7 +33,7 @@ MemoryFlow 结合了**间隔重复系统 (SRS)** 与**桌面灵动岛 (Dynamic I
 
   * **交互逻辑**：支持鼠标手势点击自动展开 (Hover Expansion)  切换紧凑/完整视图。
 
-    ![b3859f79a70b404b8abc7b443c64521d](.\picture\灵动岛应用模式图片.png)
+    ![b3859f79a70b404b8abc7b443c64521d](picture\灵动岛应用模式图片.png)
 
     ![灵动岛应用模式动画](.\picture\灵动岛应用模式动画.gif)
 
