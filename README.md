@@ -1,4 +1,4 @@
-# MemoryFlow 产品文档
+# MemoryFlow
 
 [MemoryFlow](https://memoryflow.tanxhub.com/) 是一款网页结合 Electron 的桌面组件的学习计划管理工具，旨在通过**无感复习**和**沉浸式交互**优化用户的长期记忆管理。本文档介绍了其核心功能架构、技术原理及获取方式。
 
