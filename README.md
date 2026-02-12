@@ -33,8 +33,8 @@ MemoryFlow 结合了**间隔重复系统 (SRS)** 与**桌面灵动岛 (Dynamic I
 
   * **交互逻辑**：支持鼠标手势点击自动展开 (Hover Expansion)  切换紧凑/完整视图。
 
-    ![灵动岛应用模式图片](picture/灵动岛应用模式图片.png)
-    ![灵动岛应用模式动画](picture/灵动岛应用模式动画.gif)
+    <img src="picture/灵动岛应用模式图片.png" alt="灵动岛应用模式图片" style="border-radius: 8px;"/>
+    <img src="picture/灵动岛应用模式动画.gif" alt="灵动岛应用模式动画" style="border-radius: 8px;"/>
     
 * **音乐模式 (Music Mode)**：
 
@@ -46,9 +46,8 @@ MemoryFlow 结合了**间隔重复系统 (SRS)** 与**桌面灵动岛 (Dynamic I
 
   * **双向控制**：支持通过 Widget 直接控制系统媒体（播放/暂停/切歌）。
 
-    ![dbffea13432d33fd41c2d1b890fd1be4](.\picture\灵动岛音乐模式图片.png)
-
-    ![灵动岛音乐模式动画](.\picture\灵动岛音乐模式动画.gif)
+    <img src="picture/灵动岛音乐模式图片.png" alt="dbffea13432d33fd41c2d1b890fd1be4" style="border-radius: 8px;"/>
+    <img src="picture/灵动岛音乐模式动画.gif" alt="灵动岛音乐模式动画" style="border-radius: 8px;"/>
 
 ### 2.2 沉浸式音乐控制 (Immersive Music Control)
 
@@ -65,7 +64,7 @@ MemoryFlow 结合了**间隔重复系统 (SRS)** 与**桌面灵动岛 (Dynamic I
 *   **解决方案**：为获得完美体验，建议安装社区插件 `BetterNCM` 并启用 SMTC 桥接模块。
 *   **操作指南**：请参考技术博客 [让网易云支持 SMTC - 一叶舟记](https://blog.lonzov.top/posts/betterncm/) 完成配置。配置完成后，MemoryFlow 即可实现毫秒级进度同步与无损封面显示。
 
-![灵动岛音乐模式音乐控制动画](.\picture\灵动岛音乐模式音乐控制动画.gif)
+<img src="picture/灵动岛音乐模式音乐控制动画.gif" alt="灵动岛音乐模式音乐控制动画" style="border-radius: 8px;"/>
 
 ### 2.3 AI 驱动的知识架构 (AI-Powered Knowledge Architecture)
 
@@ -79,7 +78,7 @@ MemoryFlow 结合了**间隔重复系统 (SRS)** 与**桌面灵动岛 (Dynamic I
 *   **系统化学习 (Systematic Learning)**：
     *   不仅是生成内容，更是生成**学习路径**。从宏观的科目大纲到微观的记忆卡片，AI 辅助构建完整的知识图谱，确保学习过程循序渐进，无遗漏。
 
-![AI 驱动的知识架构动画](.\picture\AI 驱动的知识架构动画.gif)
+<img src="picture/AI 驱动的知识架构动画.gif" alt="AI 驱动的知识架构动画" style="border-radius: 8px;"/>
 
 ### 2.4 英语单词掌握引擎 (Language Mastery Engine)
 
@@ -95,9 +94,8 @@ MemoryFlow 结合了**间隔重复系统 (SRS)** 与**桌面灵动岛 (Dynamic I
     *   **动态调度**：基于改进版艾宾浩斯遗忘曲线 (Ebbinghaus Forgetting Curve)，算法精确计算每个单词的“记忆半衰期”。
     *   **无感介入**：无需用户手动安排复习计划。当单词即将滑入遗忘区时，系统会自动将其无缝注入到今日的复习队列中，实现“在遗忘发生前一秒将其挽回”。
 
-![英语模块背单词动画](.\picture\英语模块背单词动画.gif)
-
-![英语模块日历回溯动画](.\picture\英语模块日历回溯动画.gif)
+<img src="picture/英语模块背单词动画.gif" alt="英语模块背单词动画" style="border-radius: 8px;"/>
+<img src="picture/英语模块日历回溯动画.gif" alt="英语模块日历回溯动画" style="border-radius: 8px;"/>
 
 ### 2.5  UI 工程 (UI Engineering)
 
