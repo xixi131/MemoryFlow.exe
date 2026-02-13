@@ -116,8 +116,8 @@ MemoryFlow 结合了**间隔重复系统 (SRS)** 与**桌面灵动岛 (Dynamic I
 ### 3.2 注册流程 (Registration)
 
 1.  联系管理员获取**专属邀请链接 (Invitation Link)**。
-2.  访问注册页面，完成账户创建并通过 Cloudflare 安全验证。
-3.  *注意：未授权的注册请求将被系统自动拦截。*
+- GitHub 私信：直接在 GitHub 上给我发消息（@xixi131）；
+- 邮箱：memoryflow-official@outlook.com（仅用于邀请链接申请，不回复技术问题）。
 
 ### 3.3 客户端下载 (Client Download)
 
